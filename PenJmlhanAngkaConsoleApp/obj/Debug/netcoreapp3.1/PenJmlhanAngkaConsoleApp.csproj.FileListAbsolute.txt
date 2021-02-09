@@ -1,0 +1,12 @@
+C:\Users\USER\Source\Repos\PenJmlhanAngkaConsoleApp\PenJmlhanAngkaConsoleApp\bin\Debug\netcoreapp3.1\PenJmlhanAngkaConsoleApp.exe
+C:\Users\USER\Source\Repos\PenJmlhanAngkaConsoleApp\PenJmlhanAngkaConsoleApp\bin\Debug\netcoreapp3.1\PenJmlhanAngkaConsoleApp.deps.json
+C:\Users\USER\Source\Repos\PenJmlhanAngkaConsoleApp\PenJmlhanAngkaConsoleApp\bin\Debug\netcoreapp3.1\PenJmlhanAngkaConsoleApp.runtimeconfig.json
+C:\Users\USER\Source\Repos\PenJmlhanAngkaConsoleApp\PenJmlhanAngkaConsoleApp\bin\Debug\netcoreapp3.1\PenJmlhanAngkaConsoleApp.runtimeconfig.dev.json
+C:\Users\USER\Source\Repos\PenJmlhanAngkaConsoleApp\PenJmlhanAngkaConsoleApp\bin\Debug\netcoreapp3.1\PenJmlhanAngkaConsoleApp.dll
+C:\Users\USER\Source\Repos\PenJmlhanAngkaConsoleApp\PenJmlhanAngkaConsoleApp\bin\Debug\netcoreapp3.1\PenJmlhanAngkaConsoleApp.pdb
+C:\Users\USER\Source\Repos\PenJmlhanAngkaConsoleApp\PenJmlhanAngkaConsoleApp\obj\Debug\netcoreapp3.1\PenJmlhanAngkaConsoleApp.AssemblyInfoInputs.cache
+C:\Users\USER\Source\Repos\PenJmlhanAngkaConsoleApp\PenJmlhanAngkaConsoleApp\obj\Debug\netcoreapp3.1\PenJmlhanAngkaConsoleApp.AssemblyInfo.cs
+C:\Users\USER\Source\Repos\PenJmlhanAngkaConsoleApp\PenJmlhanAngkaConsoleApp\obj\Debug\netcoreapp3.1\PenJmlhanAngkaConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\USER\Source\Repos\PenJmlhanAngkaConsoleApp\PenJmlhanAngkaConsoleApp\obj\Debug\netcoreapp3.1\PenJmlhanAngkaConsoleApp.dll
+C:\Users\USER\Source\Repos\PenJmlhanAngkaConsoleApp\PenJmlhanAngkaConsoleApp\obj\Debug\netcoreapp3.1\PenJmlhanAngkaConsoleApp.pdb
+C:\Users\USER\Source\Repos\PenJmlhanAngkaConsoleApp\PenJmlhanAngkaConsoleApp\obj\Debug\netcoreapp3.1\PenJmlhanAngkaConsoleApp.genruntimeconfig.cache
