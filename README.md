@@ -10,9 +10,13 @@ Output:
 4
 
 3,1
+
 2,2
-(*) 2,1,1
+
+(**) 2,1,1
+
 1,1,1,1
+
 Notes: 2,1,1 sama dengan 1,2,1 atau 1,1,2
 
-*Logic masih ada yang salah gak bisa menampilkan (*) 
+*Logic masih ada yang salah gak bisa menampilkan (**) 
