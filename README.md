@@ -1,8 +1,8 @@
 # PenJmlhanAngkaConsoleApp
 
 Sebuah fungsi dengan input integer positif dan menghasilkan susunan angka yang jika dijumlahkan sama dengan input.
-Input:
 
+Input:
 4
 
 Output:
